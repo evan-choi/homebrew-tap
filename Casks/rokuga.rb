@@ -1,8 +1,8 @@
 cask "rokuga" do
   version "1.0"
-  sha256 "6bed13b15cda7df9ce7d1591ed1124e8762361f5072961ed70ae8a8d3c4fea18"
+  sha256 "4c849993bfbce2815eb97f3fc71f12f335e6f43863bf76b97f46acc938bdb346"
 
-  url "https://github.com/evan-choi/rokuga/releases/download/v#{version}/Rokuga-#{version}.dmg"
+  url "https://github.com/evan-choi/rokuga/releases/download/v#{version}/Rokuga-#{version}.zip"
   name "Rokuga"
   desc "Native screen recorder for macOS"
   homepage "https://github.com/evan-choi/rokuga"
