@@ -7,7 +7,7 @@ cask "rokuga" do
   desc "Native screen recorder for macOS"
   homepage "https://github.com/evan-choi/rokuga"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Rokuga.app"
 end
